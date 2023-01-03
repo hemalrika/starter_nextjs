@@ -1,0 +1,12 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.service-content {border: 1px solid #ddd;padding: 30px;background: #f2f2f2;}
+
+.service-details {
+    border: 1px solid #ddd;
+    margin-top: 30px;
+}
